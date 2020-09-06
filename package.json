@@ -1,0 +1,13 @@
+{
+  "name": "kalpik",
+  "version": "0.0.1",
+  "description": "KALPIK CLI",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Siddhant Gupta <siddhant@kalpik.studio>",
+  "license": "ISC"
+}
